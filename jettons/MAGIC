@@ -1,0 +1,11 @@
+name: MAGIC
+description: TonAlchemists Token.
+image: "https://i.ibb.co/SPktNjf/icon.png"
+address: 0:EQDhbM11gCkwVSLu11jTPUGQKXPjfW_J1psPqc8mwZwM7Imf
+symbol: MAGIC
+max_supply: 1000000000
+websites:
+  - "https://tonalchemists.wtf/"
+social:
+  - "https://twitter.com/TonAlchemists"
+  - "https://t.me/TonAlchemists"
